@@ -19,8 +19,10 @@ val jamhour1g = developer {
         frameworks("Javacord", "JavaFX")
         databases("MySQL")
         cloud("AWS (in progress)")
+        dataFormats("JSON", "XML")
     }
 }
+
 ```
 
 </details> <details> <summary>🎮 Gaming Activity</summary>   
