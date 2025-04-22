@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey there, I'm Yazan Jamhour!
 
-<!--
-**jamhour1g/jamhour1g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Marketing student & CS minor blending strategy with code to build smarter digital experiences.
 
-Here are some ideas to get you started:
+🧠 Exploring the intersection of **tech, data, and human behavior** to create efficient experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```kotlin
+val jamhour1g = developer {
+    about {
+        name = "Yazan Jamhour"
+        field = "Marketing + Computer Science"
+        role = "Developer, Scraper, Cloud Explorer ☁️"
+    }
+
+    tech {
+        languages("Kotlin", "Java", "PHP", "JavaScript", "HTML/CSS", "Markdown")
+        tools("IntelliJ", "Android Studio", "Git", "Gradle", "Maven", "WebStorm", "PhpStorm")
+        libraries("kotlinx.coroutines", "kotlinx.serialization", "JSoup", "JavaFX", "Doctrine", "React", "JPA + Hibernate")
+        frameworks("Javacord", "JavaFX")
+        databases("MySQL")
+        cloud("AWS (in progress)")
+    }
+}
+```
+
+</details> <details> <summary>🎮 Gaming Activity</summary>   
+Every intense boss fight, every clutch win — it's all part of sharpening the mindset.
+
+🔥 **Most Played Titles:**  
+  - *Terraria* – 249+ hrs  
+  - *7 Days to Die* – 225+ hrs  
+  - *Brawlhalla* – 200+ hrs  
+
+🏆 **Top 5 Favorites:**  
+  - *Terraria*  
+  - *7 Days to Die*  
+  - *Brawlhalla*  
+  - *Half-Life*  
+  - *Hollow Knight*  
+
+🎯 **Favorite Genres:** Survival, Soulslike Metroidvanias, Roguelikes, PvP Fighters, Arena Shooters
+
+</details> <details> <summary>🤝 Let's Connect!</summary>
+I'm always open to tech collabs, marketing-tech crossovers, or just geeking out on Java, Kotlin, or gaming. 
+Feel free to reach out!
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yazan-jamhour/)
+- 🔗 [Steam](https://steamcommunity.com/id/jamhour1g/)
+
+</details>
